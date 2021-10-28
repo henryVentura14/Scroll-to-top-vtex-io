@@ -1,0 +1,6 @@
+.btn{
+  background-color: #f71963;
+  border: none;
+}
+.btn:hover{
+  transition: color .15s ease-in;}
